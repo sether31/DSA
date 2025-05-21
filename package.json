@@ -1,0 +1,17 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fib_iterative": "nodemon recursion/fibonacci_iterative.js",
+    "fib_recursion": "nodemon recursion/fibonacci_recursion.js",
+    "ms_recursion": "nodemon recursion/mergeSort.js"
+  },
+  "keywords": [],
+  "author": "Seth Hernandez <sethmichaelhernandez@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
