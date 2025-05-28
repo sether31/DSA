@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "fib_iterative": "nodemon recursion/fibonacci_iterative.js",
     "fib_recursion": "nodemon recursion/fibonacci_recursion.js",
-    "ms_recursion": "nodemon recursion/mergeSort.js"
+    "ms_recursion": "nodemon recursion/mergeSort.js",
+    "hashmap": "nodemon hash-map/main.js"
   },
   "keywords": [],
   "author": "Seth Hernandez <sethmichaelhernandez@gmail.com>",
