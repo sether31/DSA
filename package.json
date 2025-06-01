@@ -9,6 +9,7 @@
     "fib_recursion": "nodemon recursion/fibonacci_recursion.js",
     "ms_recursion": "nodemon recursion/mergeSort.js",
     "hashmap": "nodemon hash-map/main.js"
+    "link_list": "nodemon linked-list/main.js"
   },
   "keywords": [],
   "author": "Seth Hernandez <sethmichaelhernandez@gmail.com>",
